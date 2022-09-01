@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("chongtu");
         System.out.println("冲突");
 
+        System.out.println("push test");
     }
     public void fun(){
 
