@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello feng");
         System.out.println("hello yu");
         System.out.println("hello git hot-fix");
+        System.out.println("冲突");
 
     }
     public void fun(){
