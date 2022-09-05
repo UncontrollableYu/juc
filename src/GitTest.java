@@ -8,7 +8,7 @@ public class GitTest {
         System.out.println("冲突");
         System.out.println("gitee test");
         System.out.println("push test");
-        System.out.println("github i");
+       
     }
     public void fun(){
 
